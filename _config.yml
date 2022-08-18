@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Northeastern University in Boston. 
 github_username: benmash
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -98,7 +98,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      search: false
 
 category_archive:
   type: liquid
