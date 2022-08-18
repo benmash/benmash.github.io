@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ben Mash"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Welcome to my website! I'm a second year Computer Science major at Northeastern University in Boston."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
