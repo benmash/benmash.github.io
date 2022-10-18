@@ -8,4 +8,5 @@ I've started working on a pathtracer written in Python with NumPy. My machine le
 
   
     
-[!Depth Image](/assets/images/purple.png)
+![Depth Image](/assets/images/purple.png)
+*Example Image of some spheres*
